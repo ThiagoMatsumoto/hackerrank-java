@@ -17,5 +17,5 @@ public class Solution {
 }
 
 //%-15s --> referente a string (%s) ocupando 15 espaços
-//%3d --> referente a double (%d) ocupando 3 espaços
+//%3d --> referente a decimais (%d) ocupando 3 espaços
 //%n --> referente a "pular linha"
